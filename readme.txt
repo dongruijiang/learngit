@@ -14,3 +14,5 @@ git is a version control system;
 新加文件----dev
 新加文件----dev2 
 修改了一个BUG---bug1
+新加文件----1---dev3
+新加文件----2---dev3
