@@ -11,3 +11,4 @@ git is a version control system;
 创建了分支 Dev  branch
 创建了分支 Dev2  branch
 修改文件----dev1
+dev1---fast forward方式
