@@ -1,2 +1,6 @@
 index -0.01
+<<<<<<< HEAD
 index  origin-1
+=======
+index origin/dev
+>>>>>>> dev
